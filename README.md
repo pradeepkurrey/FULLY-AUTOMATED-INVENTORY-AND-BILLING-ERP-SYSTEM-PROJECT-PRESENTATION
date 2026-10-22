@@ -117,7 +117,7 @@ File: "FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.xlsm"
 
 The Excel Macro-Enabled Workbook contains the project implementation. It is intended to demonstrate inventory management and billing automation through Excel VBA.
 
-![⬇️ Download Excel VBA Workbook](https://github.com/pradeepkurrey/FULLY-AUTOMATED-INVENTORY-AND-BILLING-ERP-SYSTEM-PROJECT-PRESENTATION/raw/refs/heads/main/Fully-Automated-Inventory-and-Billing-ERP-System.xlsm)
+![⬇️ Download Excel VBA Workbook](https://github.com/pradeepkurrey/FULLY-AUTOMATED-INVENTORY-AND-BILLING-ERP-SYSTEM-PROJECT-PRESENTATION/raw/refs/heads/main/Fully-Atomated-Inventory-and-Billing-ERP-System.xlsm)
 
 «Note: Enable macros only when you trust the workbook and have reviewed its contents.»
 
