@@ -109,7 +109,7 @@ File: "FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.pptx"
 
 The 11-slide presentation explains the system architecture, inventory control, billing automation, VBA workflow, validation controls, operational review, and project summary.
 
-![⬇️ Download PowerPoint Presentation](./FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.pptx)
+![⬇️ Download PowerPoint Presentation](https://github.com/pradeepkurrey/FULLY-AUTOMATED-INVENTORY-AND-BILLING-ERP-SYSTEM-PROJECT-PRESENTATION/raw/refs/heads/main/FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.pptx)
 
 ## 2. Excel VBA ERP System
 
@@ -117,7 +117,7 @@ File: "FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.xlsm"
 
 The Excel Macro-Enabled Workbook contains the project implementation. It is intended to demonstrate inventory management and billing automation through Excel VBA.
 
-![⬇️ Download Excel VBA Workbook](./Fully-Automated-Inventory-and-Billing-ERP-System.xlsm)
+![⬇️ Download Excel VBA Workbook](https://github.com/pradeepkurrey/FULLY-AUTOMATED-INVENTORY-AND-BILLING-ERP-SYSTEM-PROJECT-PRESENTATION/raw/refs/heads/main/Fully-Automated-Inventory-and-Billing-ERP-System.xlsm)
 
 «Note: Enable macros only when you trust the workbook and have reviewed its contents.»
 
@@ -127,7 +127,7 @@ File: "FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.pdf"
 
 A convenient, read-only format for reviewing the complete 11-slide project presentation without opening PowerPoint.
 
-![⬇️ View / Download PDF Presentation](./FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.pdf)
+![⬇️ View / Download PDF Presentation](https://github.com/pradeepkurrey/FULLY-AUTOMATED-INVENTORY-AND-BILLING-ERP-SYSTEM-PROJECT-PRESENTATION/raw/refs/heads/main/FULLY-AUTOMATED-INVENTORY-and-BILLING-ERP-SYSTEM.pdf)
 
 ## 4. 💻 VBA Source Code — Automation Logic
 
@@ -135,7 +135,7 @@ File: "VBA Code.bas"
 
 Contains the exported VBA module for reviewing the macro logic used in the Excel-based Inventory & Billing ERP System.
 
-![⬇️ View / Download VBA Code](./VBA_Code.bas)
+![⬇️ View / Download VBA Code](https://github.com/pradeepkurrey/FULLY-AUTOMATED-INVENTORY-AND-BILLING-ERP-SYSTEM-PROJECT-PRESENTATION/raw/refs/heads/main/VBA_Code.bas)
 
 ---
 # 🚀 Key Features
